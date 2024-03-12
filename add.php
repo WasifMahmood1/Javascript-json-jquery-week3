@@ -91,7 +91,7 @@ if (isset($_POST['first_name']) && isset($_POST['last_name']) && isset($_POST['e
           integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.2.1.js"
             integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
-    <title>Jared Best | Login Page</title>
+    <title>Wasif Mahmood | Login Page</title>
 </head>
 <body>
 <div class="container">
