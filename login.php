@@ -40,11 +40,11 @@ if (isset($_POST['pass']) && isset($_POST['email'])) {
 <html>
 <head>
     <?php require_once "bootstrap.php"; ?>
-    <title>Welcome to Autos Database | Wasif Mahmmod</title>
+    <title>Welcome to Autos Database | Wasif Mahmood</title>
 </head>
 <body>
 <div class="container">
-    <a href="#login">Please Log In</a>
+    <a href="#login">Please log in</a>
     <?php
     if (isset($_SESSION['error'])) {
         echo('<p style="color: red;">' . htmlentities($_SESSION['error']) . "</p>\n");
